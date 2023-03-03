@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/aspnetcore,visualstudiocode,visualstudio,firebase
-# Edit at https://www.toptal.com/developers/gitignore?templates=aspnetcore,visualstudiocode,visualstudio,firebase
+# Created by https://www.toptal.com/developers/gitignore/api/aspnetcore,visualstudio,visualstudiocode,firebase
+# Edit at https://www.toptal.com/developers/gitignore?templates=aspnetcore,visualstudio,visualstudiocode,firebase
 
 ### ASPNETCore ###
 ## Ignore Visual Studio temporary files, build results, and
@@ -548,5 +548,5 @@ FodyWeavers.xsd
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
-# End of https://www.toptal.com/developers/gitignore/api/aspnetcore,visualstudiocode,visualstudio,firebase
+# End of https://www.toptal.com/developers/gitignore/api/aspnetcore,visualstudio,visualstudiocode,firebase
 1
